@@ -1,0 +1,145 @@
+/* General Text Area/Comments */
+
+.theme-entry .input-control textarea:focus {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Filter Text */
+
+.theme-entry .filterTxt:focus-within {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Filter Dropdowns */
+
+.theme-entry .input-control.select-box.dropdown-box:focus-within {
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Filter Configure */
+
+.theme-entry a.toolbar-button.toolbar-button-inline.style-aware.configure-filter:focus {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    outline-style: solid !important;
+    outline-width: 4px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Filter Refresh */
+
+.theme-entry a.toolbar-button.toolbar-button-inline.style-aware.refresh:focus {
+    margin-top: 4px !important;
+    margin-bottom: 4px !important;
+    outline-style: solid !important;
+    outline-width: 4px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Filter Text */
+
+.theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox:focus {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Calendar Control */
+
+.theme-entry .input-control.select-box.lookup-box.calendar-control.datepicker:focus-within {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Calendar Button*/
+
+.theme-entry .input-control-buttons.styling-right.styling-inner-wrapper:focus-within {
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 1px !important;
+}
+
+/* .theme-entry a.SFC.SourceCode-Forms-Controls-Web-Button:focus {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-color: black !important;
+    border-width: 2px !important;
+} */
+
+/* Calendar Button*/
+
+.theme-entry a.SFC.SourceCode-Forms-Controls-Web-Button:focus {
+    background-color: #ffdd00;
+    color:black !important;
+    border-style: none none solid none !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Multi Column List */
+
+.theme-entry .SourceCode-Forms-Controls-Web-ControlPack-ListBox .stylewrapper .hoverdiv:focus {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+    border-style: solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+/* Multi Column List Row */
+
+.theme-entry .grid-content-table tbody tr.highlighted {
+    outline-style: solid !important;
+    outline-width: 5px !important;
+    outline-color: #ffdd00 !important;
+}
+
+/* Multi Column List Row Elements */
+
+.theme-entry .grid-content-table tbody tr.highlighted>td.last {
+    border-style: solid solid solid none !important;
+    border-color: black !important;
+    border-width: 2px !important;
+}
+
+.theme-entry .grid-content-table tbody tr.highlighted>td.first {
+    border-style: solid none solid solid !important;
+    border-color: black !important;
+    border-width: 2px !important;
+    margin-left: 5px;
+}
+
+
